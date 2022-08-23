@@ -1,2 +1,3 @@
-# PocketFlaskFileExplorer
-A tiny app for manage an simple file explorer for Flask
+# Pocket File Explorer
+configure a server for your files in a few lines of code
+

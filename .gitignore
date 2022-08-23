@@ -1,0 +1,12 @@
+local_install.py
+push_package.py
+
+*.pyc
+*.swp
+*.egg-info
+
+/pycache
+/build
+/dist
+
+
