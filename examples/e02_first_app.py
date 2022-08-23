@@ -1,6 +1,6 @@
 import pocketFileExplorer
 # create an web app explorer in ".." path
-app=pocketFileExplorer.app(__name__,"..")
+app=pocketFileExplorer.app("..")
 
 
 import webbrowser
