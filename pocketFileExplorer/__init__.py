@@ -9,21 +9,21 @@ except:
 class app:
 
     def __init__(self,path):
-        self.app=Flask(__name__)
+        self.__app=Flask(__name__)
 
-
-        @self.app.route("/")
+        @self.__app.route("/")
         def first_page():
             view=render("")
             html=view.get_html()
             return(html)
 
-        @self.app.route('/<path:url_file>')
+        @self.__app.route('/<path:url_file>')
         def file_explorer(url_file):
             view=render(url_file)
             html=view.get_html()
             return(html)
 
+    def get_object(self): return self.__app
 
     def run(self,**args):
         self.app.run(**args)
