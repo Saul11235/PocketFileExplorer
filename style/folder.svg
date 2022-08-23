@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="15"
+   viewBox="0 0 3.9687498 3.9687503"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="folder.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : -144.53127 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="209.99999 : -144.53127 : 1"
+       inkscape:persp3d-origin="105 : -194.03127 : 1"
+       id="perspective1134" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="-0.26561347"
+     inkscape:cy="2.3118688"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1350"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="px"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffcc00;stroke-width:1.33523;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect835"
+       width="3.4395833"
+       height="3.1750002"
+       x="0.26458341"
+       y="0.52916664" />
+    <rect
+       style="fill:#000000;stroke-width:1.00285;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect839"
+       width="0.26458332"
+       height="2.9104166"
+       x="2.7815501e-08"
+       y="0.79374999" />
+    <rect
+       style="fill:#000000;stroke-width:1.00384;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect839-7"
+       width="0.26458332"
+       height="2.9161501"
+       x="3.7041667"
+       y="0.7880165" />
+    <rect
+       style="fill:#000000;stroke-width:1.09021;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect839-7-2"
+       width="0.26458332"
+       height="3.4395833"
+       x="3.7041667"
+       y="-3.7041667"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#000000;stroke-width:0.605167;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect839-7-2-5"
+       width="0.26458332"
+       height="1.0598232"
+       x="0"
+       y="-3.175"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#000000;stroke-width:0.855234;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect839-7-2-5-1"
+       width="0.26458338"
+       height="2.1166668"
+       x="0.52916664"
+       y="-2.3812499"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#000000;stroke-width:0.427617;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect839-7-2-5-1-8"
+       width="0.26458332"
+       height="0.5291667"
+       x="0.52916664"
+       y="-3.7041667"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#d4aa00;fill-opacity:1;stroke-width:0.966091;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect916"
+       width="1.8520834"
+       height="1.3229167"
+       x="1.3229166"
+       y="2.3812499" />
+    <rect
+       style="fill:#000000;stroke-width:0.475093;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect839-7-2-5-1-8-5"
+       width="0.26458332"
+       height="0.6531902"
+       x="0.26458329"
+       y="-2.5052733"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#000000;stroke-width:0.475094;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect839-7-2-5-1-8-5-1"
+       width="0.26458332"
+       height="0.65319026"
+       x="0.26312169"
+       y="-3.4717109"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffcc00;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:bevel"
+       id="rect837"
+       width="1.0583334"
+       height="0.79374999"
+       x="2.1166666"
+       y="0.26458332" />
+  </g>
+</svg>
